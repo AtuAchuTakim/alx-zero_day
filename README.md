@@ -1,1 +1,1 @@
-My first readme
+I am studying softwear Engineer
